@@ -1,0 +1,14 @@
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\day5c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\day5c#.AssemblyInfoInputs.cache
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\day5c#.AssemblyInfo.cs
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\day5c#.csproj.CoreCompileInputs.cache
+C:\Users\merot\source\repos\day5c#\day5c#\bin\Debug\net8.0\day5c#.exe
+C:\Users\merot\source\repos\day5c#\day5c#\bin\Debug\net8.0\day5c#.deps.json
+C:\Users\merot\source\repos\day5c#\day5c#\bin\Debug\net8.0\day5c#.runtimeconfig.json
+C:\Users\merot\source\repos\day5c#\day5c#\bin\Debug\net8.0\day5c#.dll
+C:\Users\merot\source\repos\day5c#\day5c#\bin\Debug\net8.0\day5c#.pdb
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\day5c#.dll
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\refint\day5c#.dll
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\day5c#.pdb
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\day5c#.genruntimeconfig.cache
+C:\Users\merot\source\repos\day5c#\day5c#\obj\Debug\net8.0\ref\day5c#.dll
